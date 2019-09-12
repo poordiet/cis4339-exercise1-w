@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25295e9d-3f93-42cc-9f26-6bd3026f99ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cis4339-exercise1-w.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/super_villain.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/super_villain.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/minions/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/minions/_form.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/minions/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/minions/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/minions/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/minions/show.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/super_villains/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/super_villains/show.html.erb" afterDir="false" />
-    </list>
+    <list default="true" id="25295e9d-3f93-42cc-9f26-6bd3026f99ab" name="Default Changelist" comment="wednesday" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -297,12 +286,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568246628729</updated>
-      <workItem from="1568246629924" duration="4631000" />
+      <workItem from="1568246629924" duration="4965000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4631000" />
+    <option name="totallyTimeSpent" value="4965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="32" width="730" height="947" extended-state="0" />
@@ -331,6 +320,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
